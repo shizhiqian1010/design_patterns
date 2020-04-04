@@ -1,7 +1,7 @@
-package com.strategy.DuckEntity;
+package com.strategy.duckEntity;
 
-import com.strategy.Behavior.FlyWithWings;
-import com.strategy.Behavior.Quack;
+import com.strategy.behavior.FlyWithWings;
+import com.strategy.behavior.Quack;
 import org.junit.Test;
 
 public class MallardDuckTest {

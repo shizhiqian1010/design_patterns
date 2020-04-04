@@ -1,7 +1,7 @@
-package com.strategy.DuckEntity;
+package com.strategy.duckEntity;
 
-import com.strategy.Behavior.FlyBehavior;
-import com.strategy.Behavior.QuackBehavior;
+import com.strategy.behavior.FlyBehavior;
+import com.strategy.behavior.QuackBehavior;
 
 /**
  * @ClassName MallardDuck

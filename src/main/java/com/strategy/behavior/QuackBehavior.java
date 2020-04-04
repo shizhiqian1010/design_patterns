@@ -1,4 +1,4 @@
-package com.strategy.Behavior;
+package com.strategy.behavior;
 
 /**
  * @ClassName QuackBehavior
