@@ -13,10 +13,10 @@ import com.decorator.Beverage;
  *
  * @see java.io.FilterReader
  * @see java.io.FilterWriter
- *
- *
  **/
 public abstract class Condiment extends Beverage {
+
+    Beverage beverage;
 
     public abstract String getDescription();
 

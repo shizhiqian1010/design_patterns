@@ -16,10 +16,8 @@ import com.decorator.Beverage;
  **/
 public class Milk extends Condiment {
 
-    Beverage beverage;
-
     public Milk(Beverage beverage) {
-        this.beverage = beverage;
+        super.beverage = beverage;
     }
 
     @Override
