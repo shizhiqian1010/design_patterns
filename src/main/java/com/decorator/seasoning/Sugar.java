@@ -7,6 +7,12 @@ import com.decorator.Beverage;
  * @Description 可选原料：糖
  * @Author ShiZhiQian
  * @Date 2020/4/5 19:39
+ *
+ * @see java.io.BufferedInputStream
+ * @see java.io.DataInputStream
+ * @see java.io.PushbackInputStream
+ *
+ * @see java.io.PushbackReader
  **/
 public class Sugar extends Condiment {
     Beverage beverage;

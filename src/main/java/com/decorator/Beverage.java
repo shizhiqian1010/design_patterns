@@ -5,6 +5,13 @@ package com.decorator;
  * @Description
  * @Author ShiZhiQian
  * @Date 2020/4/5 19:26
+ *
+ * @see java.io.InputStream
+ * @see java.io.OutputStream
+ *
+ * @see java.io.Reader
+ * @see java.io.Writer
+ *
  **/
 public abstract class Beverage {
 
