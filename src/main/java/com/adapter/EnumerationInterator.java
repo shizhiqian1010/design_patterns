@@ -8,6 +8,9 @@ import java.util.Iterator;
  * @Description
  * @Author ShiZhiQian
  * @Date 2020/4/11 14:26
+ *
+ * @see java.util.Iterator
+ * @see java.util.Enumeration
  **/
 public class EnumerationInterator implements Iterator {
 
