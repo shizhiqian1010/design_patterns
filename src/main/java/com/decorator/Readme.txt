@@ -5,6 +5,8 @@
 
 	装饰者：abstract Condiment
 
+	注：装饰者模式：将一个对象包装起来以增加新的行为和处理
+
 JDK源码中的装饰者模式：【IO模块】
 	父接口：
 		java.io.InputStream
